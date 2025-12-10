@@ -1,4 +1,33 @@
-# Notes App - Full Stack Implementation Exercise
+# Notes App - Full Stack Implementation
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+
+Full-stack note-taking application with categories and filtering, built as a technical challenge.
+
+## 🚀 Author
+**Alexander Vladimir Bulan Georgieff**
+- LinkedIn: [tu-perfil](https://www.linkedin.com/in/vladimir-bulan-60083b21b/)
+- GitHub: [@Vladimir-Bulan](https://github.com/Vladimir-Bulan)
+
+## 📸 Screenshots
+
+### Main Dashboard
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f6c060d3-17d1-4527-884d-dc5e9354a353" />
+
+### Create Note
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c39e0447-9d30-4009-87dd-c261d44d12cd" />
+
+### Category Management
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/02f1735e-c17c-4f6e-853a-fafd21d9b0cc" />
+
+### Filter by Category
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2c33f59c-2fc1-4d5d-86d8-cbcc302d8c21" />
+
+### Archived Notes
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6e446abe-8780-482c-9202-66587468d775" />
 
 **Ensolvers Full Stack Challenge**  
 Candidate: Alexander Vladimir Bulan Georgieff  

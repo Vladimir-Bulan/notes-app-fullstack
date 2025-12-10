@@ -9,7 +9,7 @@ Full-stack note-taking application with categories and filtering, built as a tec
 
 ## 🚀 Author
 **Alexander Vladimir Bulan Georgieff**
-- LinkedIn: [tu-perfil](https://www.linkedin.com/in/vladimir-bulan-60083b21b/)
+- LinkedIn: [Vladimir-Bulan](https://www.linkedin.com/in/vladimir-bulan-60083b21b/)
 - GitHub: [@Vladimir-Bulan](https://github.com/Vladimir-Bulan)
 
 ## 📸 Screenshots
